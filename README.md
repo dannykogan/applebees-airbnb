@@ -2,15 +2,27 @@
 
 **[applebeesairbnb.com](https://applebeesairbnb.com)**
 
-A fully satirical Airbnb listing for an Applebee's restaurant in Lake Tahoe. The goal: make it look and feel completely indistinguishable from a real listing, professional photography, polished copy, glowing reviews, the whole thing. The only giveaway is that it's... Applebee's.
+A satirical Airbnb listing for an Applebee's restaurant in Lake Tahoe — built as a joke, executed like it's real.
 
-Built in about 2 hours on a Sunday morning as a quick creative experiment.
+The concept is a direct riff on Coachella influencer houses: those absurdly polished, $10k/night "experience" rentals that blur the line between hospitality and brand activation. Same energy, same aesthetic, same breathless copywriting — except it's a chain restaurant in a strip mall.
 
 ---
 
-## What I learned
+## The backstory
 
-Turns out you can spin up a convincing, production-quality mockup site faster than ever with AI-assisted development. This was a reminder that the bottleneck for ideas like this is no longer execution, it's just having the idea. Concept to live site in an afternoon, custom domain included.
+Fourth of July, 2025. A group of friends wanted to go to Applebee's. One friend — famously bougie — refused. *"Whatever, go to Applebee's. I don't even care."* She ended up loving it.
+
+That quote lived rent-free for a year until it became this: a fully dressed-up, completely straight-faced Airbnb listing for Applebee's, complete with professional photography, glowing five-star reviews, and $6,749/night pricing.
+
+---
+
+## What it is
+
+An experiment at the intersection of branding, marketing, and web development. The goal was to make it feel completely indistinguishable from a real luxury listing — not a parody that winks at you, but one that commits fully and lets the absurdity speak for itself. That's the joke.
+
+Built in about 2 hours on a Sunday morning. Concept to live site, custom domain included.
+
+The real takeaway: with modern AI-assisted development, the bottleneck for ideas like this is no longer execution. It's just having the idea.
 
 ---
 
