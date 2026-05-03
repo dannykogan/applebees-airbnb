@@ -10,7 +10,7 @@ Built in about 2 hours on a Sunday morning as a quick creative experiment.
 
 ## What I learned
 
-Turns out you can spin up a convincing, production-quality mockup site faster than ever with AI-assisted development. This was a reminder that the bottleneck for ideas like this is no longer execution — it's just having the idea. Concept to live site in an afternoon, custom domain included.
+Turns out you can spin up a convincing, production-quality mockup site faster than ever with AI-assisted development. This was a reminder that the bottleneck for ideas like this is no longer execution, it's just having the idea. Concept to live site in an afternoon, custom domain included.
 
 ---
 
